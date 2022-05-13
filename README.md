@@ -13,3 +13,6 @@ This lab covers the following topics:
 • X.509 certificate and self-signed certificate
 • Apache, HTTP, and HTTPS
 • Man-in-the-middle attacks
+
+
+Lab environemnt: LINUX/UNIX - #Ubuntu
